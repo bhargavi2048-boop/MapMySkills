@@ -12,6 +12,8 @@
 
 **An AI-powered, zero-backend web app that analyzes your resume against any job description, identifies skill gaps, and generates a personalized week-by-week learning roadmap — all in your browser.**
 
+Demo Link : "https://bhargavi2048-boop.github.io/MapMySkills/"
+
 *Built by [Bhargavi N](https://www.linkedin.com/in/bhargavi-nagaraj-967811381) · First Year CSE Student*
 
 </div>
